@@ -1,11 +1,21 @@
-Position,Level,Salary
-Business Analyst,1,45000
-Junior Consultant,2,50000
-Senior Consultant,3,60000
-Manager,4,80000
-Country Manager,5,110000
-Region Manager,6,150000
-Partner,7,200000
-Senior Partner,8,300000
-C-level,9,500000
-CEO,10,1000000
+Name,Popularity_Level,Salary
+BTS,1,1000000
+BLACKPINK,2,800000
+EXO,1,950000
+TWICE,2,750000
+IU,1,900000
+Park Seo Joon,2,700000
+GOT7,3,600000
+Red Velvet,3,550000
+Lee Min Ho,3,650000
+Stray Kids,4,450000
+IZ*ONE,4,400000
+JYP,5,350000
+Suzy,5,300000
+NCT,2,720000
+MAMAMOO,3,580000
+Kim Soo Hyun,1,920000
+MONSTA X,4,420000
+TXT,3,520000
+Apink,4,470000
+SEVENTEEN,2,680000
